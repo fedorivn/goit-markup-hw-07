@@ -1,0 +1,50 @@
+// MISCALENIOUS
+@import "./utils/variables";
+
+@import "./base/reset";
+
+@import "./utils/placeholders";
+
+@import "./base/base";
+
+// COMPONENTS
+
+@import "./components/card-set";
+
+@import "./components/buttons";
+
+@import "./components/modal";
+
+@import "./components/logo";
+
+@import "./components/socials";
+
+// HEADER
+
+@import "./layout/header";
+
+@import "./layout/navigation";
+
+@import "./layout/contacts";
+
+// MAIN PAGE
+
+@import "./layout/hero";
+
+@import "./layout/advantage";
+
+@import "./layout/offers";
+
+@import "./layout/team";
+
+@import "./layout/clients";
+
+// FOOTER
+
+@import "./layout/footer";
+
+// PORTFOLIO PAGE
+
+@import "./layout/filters";
+
+@import "./layout/projects";
